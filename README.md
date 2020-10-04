@@ -1,2 +1,4 @@
 # web
-A website based on css and html which could be used as a simple web project and to be able to learn and code accordingly 
+A website based on css and html which could be used as a simple web project and to be able to learn and code accordingly.
+
+It also contains different template designs in pdf formats.
